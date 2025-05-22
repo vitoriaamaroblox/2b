@@ -2,4 +2,5 @@ body {
     background-color:
 }
 h1
-{color:navy}
+{color:navy ; font-style: italic;
+}
