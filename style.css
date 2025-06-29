@@ -1,7 +1,24 @@
 body {
-    background-color:
+    background-color: #1c1c1c; 
+    text-align: center;
+    color: #e0dede; 
 }
-h1
-{color:navy ; font-style: italic;
-} h2 {font-style: italic;}
-p {font-style: italic;}
+
+h1 {
+    font-style: italic;
+    color: #ffcc00; 
+    font-size: larger;
+    text-shadow: 1px 1px 3px #000;
+}
+
+h2 {
+    font-style: italic;
+    color: #ffcc00; 
+    font-size: larger;
+    text-shadow: 1px 1px 3px #000;
+}
+.imagem {
+    width: 50%;
+    border: 3px solid #444;
+    box-shadow: 0 0 10px rgba(255, 204, 0, 0.3);
+}
