@@ -1,6 +1,6 @@
 body {
     background-color: #1c1c1c; 
-    text-align: center;
+    text-align: left;
     color: #e0dede; 
 }
 
@@ -9,6 +9,7 @@ h1 {
     color: #ffcc00; 
     font-size: larger;
     text-shadow: 1px 1px 3px #000;
+    text-align: center;
 }
 
 h2 {
@@ -16,11 +17,13 @@ h2 {
     color: #ffcc00; 
     font-size: larger;
     text-shadow: 1px 1px 3px #000;
+    text-align: center;
 }
 .imagem {
     width: 50%;
     border: 3px solid #444;
     box-shadow: 0 0 10px rgba(255, 204, 0, 0.3);
+    text-align: center;
 }
 footer{
     color: #f5c518;
